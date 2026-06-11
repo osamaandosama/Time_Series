@@ -1,8 +1,5 @@
 # Time-Series Anomaly Detection in Network Traffic
 
-> Detecting network intrusions by treating raw network flows as a time series and learning the "normal rhythm" of traffic with deep-learning and classical anomaly-detection models.
-
----
 
 ## Overview
 
