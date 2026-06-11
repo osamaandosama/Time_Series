@@ -51,6 +51,8 @@ Time_Series/
         ├── Second_Approach_Data_Process.ipynb  # Produces engineered_network_traffic.csv
         ├── Baselines.ipynb                      # Isolation Forest & Local Outlier Factor
         ├── LSTM_Autoencoder.ipynb               # Unsupervised reconstruction-based detector
+        ├── LSTM_Autoencoder_v1                  # Unsupervised reconstruction-based detector version 1
+        ├── LSTM_Autoencoder_v2                  # Unsupervised reconstruction-based detector version 2
         └── RF.ipynb                             # Supervised Random Forest comparison
 ```
 
